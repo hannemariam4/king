@@ -4,4 +4,8 @@
 let us see
 </body>
 </html>
+<<<<<<< HEAD
 //this is second comment//
+//this is comment line//
+//this is correct way//
+
